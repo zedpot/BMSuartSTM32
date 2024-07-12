@@ -1,0 +1,8 @@
+../Core/Src/main.c:82:5:main	16	static
+../Core/Src/main.c:134:6:SystemClock_Config	88	static
+../Core/Src/main.c:181:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:214:13:MX_GPIO_Init	16	static
+../Core/Src/main.c:227:6:send_daly_command	48	static
+../Core/Src/main.c:246:9:receive_daly_data	48	static
+../Core/Src/main.c:272:6:convert_data	24	static
+../Core/Src/main.c:284:6:Error_Handler	4	static,ignoring_inline_asm
